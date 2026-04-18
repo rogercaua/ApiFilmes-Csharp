@@ -1,0 +1,74 @@
+## Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+AnyCPU/
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+
+## Logs
+*.log
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.assets.json
+
+## Publish
+publish/
+*.publishproj
+
+## IIS / Azure
+*.azurePubxml
+*.pubxml
+*.publishsettings
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Test results
+TestResults/
+*.trx
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Resharper
+_ReSharper*/
+*.DotSettings.user
+
+## Dotnet tools
+.dotnet/
+
+## Secrets (muito importante)
+appsettings.Development.json
+secrets.json
+
+## Database files (caso use local)
+*.mdf
+*.ldf
+
+## Temporary files
+*.tmp
+*.temp
